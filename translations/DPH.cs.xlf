@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" lang="en">
+ <file original="DPH" source-language="cs" target-language="en" product-name="Base">
+  <body>
+   <trans-unit id="table_DPH#text_title" xml:space="preserve" approved="no" datatype="x-title">
+    <source>DPH</source>
+    <target state="translated">VAT</target>
+   </trans-unit>
+   <trans-unit id="table_DPH#list_Normal#text_title" xml:space="preserve" approved="no" datatype="x-title">
+    <source>DPH</source>
+    <target state="translated">VAT</target>
+   </trans-unit>
+   <trans-unit id="table_DPH#list_Normal#view_Normal#column__ID#text_Caption" xml:space="preserve" approved="no" datatype="x-savedstate">
+    <source>_ID</source>
+    <target state="translated">_ID</target>
+   </trans-unit>
+   <trans-unit id="table_DPH#list_Normal#view_Normal#column_NAZEV#text_Caption" xml:space="preserve" approved="no" datatype="x-savedstate">
+    <source>Název</source>
+    <target state="translated">Name</target>
+   </trans-unit>
+   <trans-unit id="table_DPH#list_Normal#view_Normal#column_POPIS#text_Caption" xml:space="preserve" approved="no" datatype="x-savedstate">
+    <source>Popis</source>
+    <target state="translated">Description</target>
+   </trans-unit>
+   <trans-unit id="table_DPH#list_Normal#view_Normal#column_KOEFA1#text_Caption" xml:space="preserve" approved="no" datatype="x-savedstate">
+    <source>Koeficient A1</source>
+    <target state="translated">A1 coefficient</target>
+   </trans-unit>
+   <trans-unit id="table_DPH#list_Normal#view_Normal#column_KOEFA2#text_Caption" xml:space="preserve" approved="no" datatype="x-savedstate">
+    <source>Koeficient A2</source>
+    <target state="translated">A2 coefficient</target>
+   </trans-unit>
+   <trans-unit id="table_DPH#list_Normal#view_Normal#column_KOEFB1#text_Caption" xml:space="preserve" approved="no" datatype="x-savedstate">
+    <source>Koeficient B1</source>
+    <target state="translated">B1 coefficient</target>
+   </trans-unit>
+   <trans-unit id="table_DPH#list_Normal#view_Normal#column_KOEFB2#text_Caption" xml:space="preserve" approved="no" datatype="x-savedstate">
+    <source>Koeficient B2</source>
+    <target state="translated">B2 coefficient</target>
+   </trans-unit>
+   <trans-unit id="table_DPH#menu"/>
+   <trans-unit id="table_DPH#list_Normal#menu"/>
+  </body>
+ </file>
+</xliff>
