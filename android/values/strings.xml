@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+<string name="hello">Hello, world!\n</string>
+<string name="orangutan">Orangutan has %d banana.\n</string>
+<string name="try">Try Weblate at http://demo.weblate.org/!\n</string>
+<string name="thanks">Thank you for using Weblate.</string>
+</resources>
