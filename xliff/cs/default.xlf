@@ -1,0 +1,10 @@
+<xliff>
+<file>
+   <body>
+       <trans-unit><source>Hello, world!\n</source></trans-unit>
+       <trans-unit><source>Orangutan has %d banana.\n</source></trans-unit>
+       <trans-unit><source>Try Weblate at &lt;http://demo.weblate.org/&gt;!\n</source></trans-unit>
+       <trans-unit><source>Thank you for using Weblate.</source></trans-unit>
+   </body>
+</file>
+</xliff>
