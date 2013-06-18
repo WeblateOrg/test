@@ -1,0 +1,8 @@
+<xliff>
+<file>
+   <body>
+       <trans-unit id="Root.View.A" resname="Root.View.A"><source>Hi</source></trans-unit>
+       <trans-unit id="Root.Action.B" resname="Root.Action.B"><source>Hi</source></trans-unit>
+   </body>
+</file>
+</xliff>
