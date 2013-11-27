@@ -18,7 +18,7 @@
     </message>
     <message>
         <source>Thank you for using Weblate.</source>
-        <translation></translation>
+        <translation type="unfinished">Thanks</translation>
     </message>
 </context>
 </TS>
