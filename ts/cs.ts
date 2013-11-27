@@ -10,7 +10,7 @@
     </message>
     <message numerus="yes">
         <source>Orangutan has %d banana(s).</source>
-        <translation><numerusform /><numerusform /><numerusform /></translation>
+        <translation type="unfinished"><numerusform /><numerusform /><numerusform /></translation>
     </message>
     <message>
         <source>Try Weblate at &lt;http://demo.weblate.org/&gt;!</source>
