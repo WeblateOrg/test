@@ -5,15 +5,15 @@
 <context>
     <name>Test</name>
     <message>
-        <source>Hello, world!\n</source>
+        <source>Hello, world!</source>
         <translation></translation>
     </message>
     <message numerus="yes">
-        <source>Orangutan has %d banana(s).\n</source>
+        <source>Orangutan has %d banana(s).</source>
         <translation><numerusform /><numerusform /><numerusform /></translation>
     </message>
     <message>
-        <source>Try Weblate at &lt;http://demo.weblate.org/&gt;!\n</source>
+        <source>Try Weblate at &lt;http://demo.weblate.org/&gt;!</source>
         <translation></translation>
     </message>
     <message>
