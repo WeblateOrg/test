@@ -5,7 +5,8 @@
 <context>
     <name>Test</name>
     <message>
-        <source>Hello, world!</source>
+        <source>Hello, world!
+        </source>
         <translation></translation>
     </message>
     <message numerus="yes">
