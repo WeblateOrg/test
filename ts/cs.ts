@@ -10,7 +10,8 @@
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
-        <source>Orangutan has %d banana(s).</source>
+        <source>Orangutan has %d banana(s).
+</source>
         <translation type="unfinished"><numerusform /><numerusform /><numerusform /></translation>
     </message>
     <message>
