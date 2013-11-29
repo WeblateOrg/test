@@ -7,7 +7,7 @@
     <message>
         <source>Hello, world!
 </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message numerus="yes">
         <source>Orangutan has %d banana(s).</source>
@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>Try Weblate at &lt;http://demo.weblate.org/&gt;!</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Thank you for using Weblate.</source>
