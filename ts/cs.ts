@@ -6,7 +6,7 @@
     <name>Test</name>
     <message>
         <source>Hello, world!
-        </source>
+</source>
         <translation></translation>
     </message>
     <message numerus="yes">
