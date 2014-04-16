@@ -22,5 +22,9 @@
         <source>Thank you for using Weblate.</source>
         <translation type="unfinished">Thanks</translation>
     </message>
+    <message>
+        <source>Obsolete</source>
+        <translation type="obsolete">Thanks</translation>
+    </message>
 </context>
 </TS>
