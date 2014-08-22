@@ -1,5 +1,4 @@
-id,source,target
-hello,Hello\, world!\n,
-orangutan,Orangutan has %d banana.\n,
-try,Try Weblate at http://demo.weblate.org/!\n,
-thanks,Thank you for using Weblate.,
+1,Hello\, world!\n,
+2,Orangutan has %d banana.\n,
+3,Try Weblate at http://demo.weblate.org/!\n,
+4,Thank you for using Weblate.,
