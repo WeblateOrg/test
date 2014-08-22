@@ -1,0 +1,4 @@
+hello,Hello, world!\n
+orangutan,Orangutan has %d banana.\n
+try,Try Weblate at http://demo.weblate.org/!\n
+thanks,Thank you for using Weblate.
