@@ -1,0 +1,18 @@
+{
+    "hello": {
+        "message": "",
+        "description": "Hello word message"
+    },
+    "orangutan": {
+        "message": "",
+        "description": "Some orangutans"
+    },
+    "try": {
+        "message": "",
+        "description": "Try Weblate message"
+    },
+    "thanks": {
+        "message": "",
+        "description": "Thanks message"
+    }
+}
