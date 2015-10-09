@@ -6,12 +6,10 @@
     <message>
         <source>Hello</source>
         <translation type="unfinished"></translation>
-</translation>
     </message>
     <message>
         <source>Orangutan</source>
         <translation type="unfinished"></translation>
-</translation>
     </message>
     <message>
         <source>Try</source>
