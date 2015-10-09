@@ -9,12 +9,12 @@
 </translation>
     </message>
     <message>
-        <source>Orangutan<source>
+        <source>Orangutan</source>
         <translation type="unfinished"></translation>
 </translation>
     </message>
     <message>
-        <source>Try<source>
+        <source>Try</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

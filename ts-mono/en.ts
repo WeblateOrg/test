@@ -8,12 +8,12 @@
 </translation>
     </message>
     <message>
-        <source>Orangutan<source>
+        <source>Orangutan</source>
         <translation>Orangutan has %d banana(s).
 </translation>
     </message>
     <message>
-        <source>Try<source>
+        <source>Try</source>
         <translation>Try Weblate at &lt;http://demo.weblate.org/&gt;!</translation>
     </message>
     <message>
