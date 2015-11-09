@@ -1,4 +1,4 @@
-1,Hello\, world!\n,
-2,Orangutan has %d banana.\n,
-3,Try Weblate at http://demo.weblate.org/!\n,
-4,Thank you for using Weblate.,
+1,"Hello\, world!\n",
+2,"Orangutan has %d banana.\n",
+3,"Try Weblate at http://demo.weblate.org/!\n",
+4,"Thank you for using Weblate.",
