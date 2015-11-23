@@ -6,26 +6,26 @@
         </header>
         <body>
         <trans-unit id="hello" approved="yes">
-            <source>Hello, world!
+            <source xml:space="preserve">Hello, world!
 </source>
-            <target>Hello, world!
+            <target xml:space="preserve">Hello, world!
 </target>
         </trans-unit>
         <trans-unit id="orangutan" approved="yes">
-            <source>Orangutan has %d banana.
+            <source xml:space="preserve">Orangutan has %d banana.
 </source>
-            <target>Orangutan has %d banana.
+            <target xml:space="preserve">Orangutan has %d banana.
 </target>
         </trans-unit>
         <trans-unit id="try" approved="yes">
-            <source>Try Weblate at http://demo.weblate.org/!
+            <source xml:space="preserve">Try Weblate at http://demo.weblate.org/!
 </source>
-            <target>Try Weblate at http://demo.weblate.org/!
+            <target xml:space="preserve">Try Weblate at http://demo.weblate.org/!
 </target>
         </trans-unit>
         <trans-unit id="thanks" approved="yes">
-            <source>Thank you for using Weblate.</source>
-            <target>Thank you for using Weblate.</target>
+            <source xml:space="preserve">Thank you for using Weblate.</source>
+            <target xml:space="preserve">Thank you for using Weblate.</target>
         </trans-unit>
         </body>
     </file>
