@@ -5,26 +5,23 @@
             <generator>Weblate</generator>
         </header>
         <body>
-        <trans-unit id="hello" approved="yes">
-            <source xml:space="preserve">Hello, world!
-</source>
+        <trans-unit id="10" approved="yes">
+            <source xml:space="preserve">hello</source>
             <target xml:space="preserve">Hello, world!
 </target>
         </trans-unit>
-        <trans-unit id="orangutan" approved="yes">
-            <source xml:space="preserve">Orangutan has %d banana.
-</source>
+        <trans-unit id="11" approved="yes">
+            <source xml:space="preserve">orangutan</source>
             <target xml:space="preserve">Orangutan has %d banana.
 </target>
         </trans-unit>
-        <trans-unit id="try" approved="yes">
-            <source xml:space="preserve">Try Weblate at http://demo.weblate.org/!
-</source>
+        <trans-unit id="12" approved="yes">
+            <source xml:space="preserve">try</source>
             <target xml:space="preserve">Try Weblate at http://demo.weblate.org/!
 </target>
         </trans-unit>
-        <trans-unit id="thanks" approved="yes">
-            <source xml:space="preserve">Thank you for using Weblate.</source>
+        <trans-unit id="13" approved="yes">
+            <source xml:space="preserve">thanks</source>
             <target xml:space="preserve">Thank you for using Weblate.</target>
         </trans-unit>
         </body>

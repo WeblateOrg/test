@@ -5,20 +5,20 @@
             <generator>Weblate</generator>
         </header>
         <body>
-        <trans-unit id="hello">
-            <source></source>
+        <trans-unit id="1">
+            <source>hello</source>
             <target></target>
         </trans-unit>
-        <trans-unit id="orangutan">
-            <source></source>
+        <trans-unit id="2">
+            <source>orangutan</source>
             <target></target>
         </trans-unit>
-        <trans-unit id="try">
-            <source></source>
+        <trans-unit id="3">
+            <source>try</source>
             <target></target>
         </trans-unit>
-        <trans-unit id="thanks">
-            <source></source>
+        <trans-unit id="4">
+            <source>thanks</source>
             <target></target>
         </trans-unit>
         </body>
