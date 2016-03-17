@@ -1,0 +1,20 @@
+<xliff>
+<file original="RootFolder/AnotherFolder/file.xib" source-language="en" datatype="plaintext" target-language="ja">
+    <header>
+        <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.2" build-num="7C68"/>
+    </header>
+    <body>
+        <trans-unit id="Pgd-Y4-2Xa.text">
+            <source xml:space="preserve">Hello, world!
+</source>
+            <target></target>
+            <note>Class = "UILabel"; text = "Original english"; ObjectID = "Pgd-Y4-2Xa";</note>
+        </trans-unit>
+       <trans-unit id="foo-3232.text"><source xml:space="preserve">Orangutan has %d banana.
+</source></trans-unit>
+       <trans-unit id="foo-3232.text"><source xml:space="preserve">Try Weblate at &lt;http://demo.weblate.org/&gt;!
+</source></trans-unit>
+       <trans-unit id="foo-3232.text"><source>Thank you for using Weblate.</source></trans-unit>
+    </body>
+</file>
+</xliff>
