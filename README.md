@@ -1,5 +1,5 @@
-Weblate test
-============
+Weblate Test Data
+=================
 
 Weblate is web based translation tool. It is based on translate-toolkit and
 heavily uses git backed to store project. You can find more information
