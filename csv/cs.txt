@@ -2,6 +2,6 @@
 ",
 2,"Orangutan has %d banana.
 ",
-3,"Try Weblate at http://demo.weblate.org/!
+3,"Try Weblate at https://demo.weblate.org/!
 ",
 4,"Thank you for using Weblate.",

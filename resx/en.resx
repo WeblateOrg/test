@@ -115,7 +115,7 @@ value : The object must be serialized into a byte array
 </value>
 </data>
 <data name="Try" xml:space="preserve">
-<value>Try Weblate at &lt;http://demo.weblate.org/&gt;!
+<value>Try Weblate at &lt;https://demo.weblate.org/&gt;!
 </value>
 </data>
 <data name="Thanks" xml:space="preserve">

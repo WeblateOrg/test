@@ -12,7 +12,7 @@
         </trans-unit>
        <trans-unit id="foo-3232.text"><source xml:space="preserve">Orangutan has %d banana.
 </source></trans-unit>
-       <trans-unit id="foo-3232.text"><source xml:space="preserve">Try Weblate at &lt;http://demo.weblate.org/&gt;!
+       <trans-unit id="foo-3232.text"><source xml:space="preserve">Try Weblate at &lt;https://demo.weblate.org/&gt;!
 </source></trans-unit>
        <trans-unit id="foo-3232.text"><source>Thank you for using Weblate.</source></trans-unit>
     </body>

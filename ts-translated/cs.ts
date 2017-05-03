@@ -14,7 +14,7 @@
         <translation type="unfinished"><numerusform /><numerusform /><numerusform /></translation>
     </message>
     <message>
-        <source>Try Weblate at &lt;http://demo.weblate.org/&gt;!</source>
+        <source>Try Weblate at &lt;https://demo.weblate.org/&gt;!</source>
         <translation></translation>
     </message>
     <message>

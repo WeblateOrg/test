@@ -1,4 +1,4 @@
 Hello, world!	
 Orangutan has %d banana.	
-Try Weblate at http://demo.weblate.org/!	
+Try Weblate at https://demo.weblate.org/!	
 Thank you for using Weblate.	

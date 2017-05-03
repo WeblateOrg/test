@@ -17,7 +17,7 @@
         </trans-unit>
         <trans-unit id="12" approved="yes">
             <source xml:space="preserve">try</source>
-            <target xml:space="preserve">Try Weblate at http://demo.weblate.org/!
+            <target xml:space="preserve">Try Weblate at https://demo.weblate.org/!
 </target>
         </trans-unit>
         <trans-unit id="13" approved="yes">

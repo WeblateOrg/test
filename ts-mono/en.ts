@@ -14,7 +14,7 @@
     </message>
     <message>
         <source>Try</source>
-        <translation>Try Weblate at &lt;http://demo.weblate.org/&gt;!</translation>
+        <translation>Try Weblate at &lt;https://demo.weblate.org/&gt;!</translation>
     </message>
     <message>
         <source>Thanks</source>

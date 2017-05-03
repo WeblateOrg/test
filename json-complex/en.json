@@ -8,7 +8,7 @@
         "description": "Some orangutans"
     },
     "try": {
-        "message": "Try Weblate at <http://demo.weblate.org/>!\n",
+        "message": "Try Weblate at <https://demo.weblate.org/>!\n",
         "description": "Try Weblate message"
     },
     "thanks": {
