@@ -1,0 +1,7 @@
+<!ENTITY hello "Hello, world!
+">
+<!ENTITY orangutan "Orangutan has %d banana.
+">
+<!ENTITY try "Try Weblate at https://demo.weblate.org/!
+">
+<!ENTITY thanks "Thank you for using Weblate.">
