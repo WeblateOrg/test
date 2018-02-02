@@ -1,0 +1,3 @@
+#!/bin/sh
+# Dummy configure file to test ALL_LINGUAS updates
+ALL_LINGUAS="cs it de"
