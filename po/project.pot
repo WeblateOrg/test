@@ -34,6 +34,6 @@ msgstr[1] ""
 msgid "Try Weblate at <https://demo.weblate.org/>!\n"
 msgstr ""
 
-#: main.c:14
+#: main.c:15
 msgid "Thank you for using Weblate."
 msgstr ""
