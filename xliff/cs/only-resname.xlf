@@ -1,0 +1,13 @@
+<xliff>
+<file>
+   <body>
+       <trans-unit resname="hello"><source xml:space="preserve">Hello, world!
+</source></trans-unit>
+       <trans-unit resname="orangutan"><source xml:space="preserve">Orangutan has %d banana.
+</source></trans-unit>
+       <trans-unit resname="try"><source xml:space="preserve">Try Weblate at &lt;https://demo.weblate.org/&gt;!
+</source></trans-unit>
+       <trans-unit resname="thanks"><source>Thank you for using Weblate.</source></trans-unit>
+   </body>
+</file>
+</xliff>
