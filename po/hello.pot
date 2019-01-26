@@ -6,7 +6,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Weblate Hello World 2012\n"
+"Project-Id-Version: Weblate Gettext sample file used in the Weblate testsuite\n"
 "Report-Msgid-Bugs-To: <noreply@example.net>\n"
 "POT-Creation-Date: 2012-03-14 15:54+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
