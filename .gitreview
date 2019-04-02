@@ -1,0 +1,6 @@
+[gerrit]
+host=gerrit.example.com
+port=29420
+project=weblate.git
+defaultremote=origin
+defaultbranch=master
