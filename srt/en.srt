@@ -1,0 +1,15 @@
+1
+00:00:11,993 --> 00:00:15,149
+Hello, world!
+
+2
+00:00:17,247 --> 00:00:23,209
+Orangutan has %d banana.
+
+3
+00:00:27,247 --> 00:00:33,209
+Try Weblate at https://demo.weblate.org/!
+
+4
+00:00:47,247 --> 00:00:66,209
+Thank you for using Weblate.
