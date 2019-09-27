@@ -118,5 +118,8 @@ value : The object must be serialized into a byte array
 <data name="Thanks" xml:space="preserve">
 <value></value>
 </data>
+<data name="Stale" xml:space="preserve">
+<value></value>
+</data>
 </root>
 
