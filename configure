@@ -1,3 +1,4 @@
 #!/bin/sh
 # Dummy configure file to test ALL_LINGUAS updates
+OTHER_VARIABLE="foo"
 ALL_LINGUAS="cs it de"
