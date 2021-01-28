@@ -1,4 +1,4 @@
-<xliff>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2">
 <file>
    <body>
        <trans-unit id="Root.View.A" resname="Root.View.A"><source>Hi</source></trans-unit>
