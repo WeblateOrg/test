@@ -1,6 +1,8 @@
 en:
   weblate:
     hello: "Hello, world!\n"
-    orangutan: "Orangutan has %d banana.\n"
+    orangutan:
+      one: "Orangutan has %d banana.\n"
+      other: "Orangutan has %d bananas.\n"
     try: "Try Weblate at https://demo.weblate.org/!\n"
     thanks: "Thank you for using Weblate."
