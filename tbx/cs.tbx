@@ -58,6 +58,30 @@
           </tig>
         </langSet>
       </termEntry>
+      <termEntry>
+        <descrip type="Translation needed">Yes</descrip>
+        <descrip type="definition">a computer program designed for a specific task or use</descrip>
+        <langSet xml:lang="en">
+          <tig>
+            <term>application</term>
+            <termNote type="administrativeStatus">preferred</termNote>
+          </tig>
+          <tig>
+            <term>application program</term>
+            <termNote type="administrativeStatus">admitted</termNote>
+          </tig>
+        </langSet>
+        <langSet xml:lang="cs">
+          <tig>
+            <term>aplikace</term>
+            <termNote type="administrativeStatus">admitted</termNote>
+          </tig>
+          <tig>
+            <term>aplikační program</term>
+            <termNote type="administrativeStatus">admitted</termNote>
+          </tig>
+        </langSet>
+      </termEntry>
     </body>
   </text>
 </martif>
