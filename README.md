@@ -1,7 +1,7 @@
 Weblate Test Data
 =================
 
-This repository serves for testing Weblate and is used in its testsuite.
+This repository contains test data used by the Weblate test suite.
 
 Please, do not submit pull request unless it is required by some testcase in
 Weblate.
