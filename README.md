@@ -3,8 +3,7 @@ Weblate Test Data
 
 This repository contains test data used by the Weblate test suite.
 
-Please, do not submit pull request unless it is required by some testcase in
-Weblate.
+Please do not submit pull requests unless required by a Weblate test case.
 
 <p>
   <a href="https://weblate.org/">
